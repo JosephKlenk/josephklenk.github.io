@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joseph Klenk</title>
+    <link>http://www.jklenk.com/</link>
+    <description>Recent content on Joseph Klenk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.jklenk.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Place Holder</title>
+      <link>http://www.jklenk.com/posts/placeholder-text/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jklenk.com/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Place Holder</title>
+      <link>http://www.jklenk.com/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jklenk.com/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Place Holder</title>
+      <link>http://www.jklenk.com/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jklenk.com/posts/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Place Holder</title>
+      <link>http://www.jklenk.com/posts/more-rich-content/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jklenk.com/posts/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Place Holder</title>
+      <link>http://www.jklenk.com/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jklenk.com/posts/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Place Holder</title>
+      <link>http://www.jklenk.com/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jklenk.com/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Place Holder</title>
+      <link>http://www.jklenk.com/posts/hugo-coder-wiki/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jklenk.com/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.jklenk.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jklenk.com/about/</guid>
+      <description>About MeHi! My name is Joseph Klenk and I am currently a college student going for a bachelors in Computer Science. While different from my major, my passions are education, content creation, and personal finance. I have been creating content on YouTube, TikTok since January 2022. My main goals are creating a supportive and welcoming community of like minded individuals and creating educational content about personal finance on TikTok and YouTube.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.jklenk.com/affiliate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jklenk.com/affiliate/</guid>
+      <description>AffiliateAffiliate</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.jklenk.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jklenk.com/contact/</guid>
+      <description>Contact MeFor Business Purposes ONLY me@jklenk.com
+Twitter DMs - @JosephKlenk
+Instagram dms - @Jklenk551</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.jklenk.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jklenk.com/resume/</guid>
+      <description>Resumeto be made</description>
+    </item>
+    
+  </channel>
+</rss>
