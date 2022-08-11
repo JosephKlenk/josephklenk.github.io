@@ -31,7 +31,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.jklenk.com/about/</guid>
-      <description>ABOUT ME Hi! My name is Joseph Klenk and I am currently a college student going for a bachelors in Computer Science, and a minor in Business Administration. While different from my major, my passions are education, content creation, and personal finance. I have been creating content on YouTube, TikTok since January 2022. My main goals are creating a supportive and welcoming community of like minded individuals and creating educational content about personal finance on TikTok and YouTube.</description>
+      <description>About Me Hi! My name is Joseph Klenk and I am currently a college student going for a bachelors in Computer Science, and a minor in Business Administration. While different from my major, my passions are education, content creation, and personal finance. I have been creating content on YouTube, TikTok since January 2022. My main goals are creating a supportive and welcoming community of like minded individuals and creating educational content about personal finance on TikTok and YouTube.</description>
     </item>
     
     <item>
@@ -40,7 +40,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.jklenk.com/contact/</guid>
-      <description>CONTACT ME me@jklenk.com (business inquiries only)</description>
+      <description>Contact Me me@jklenk.com (business inquiries only)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.jklenk.com/discord/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jklenk.com/discord/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -49,7 +58,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.jklenk.com/tools/</guid>
-      <description>TOOLS Coming Soon</description>
+      <description>Tools Coming Soon</description>
     </item>
     
   </channel>
