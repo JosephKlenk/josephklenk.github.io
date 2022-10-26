@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.jklenk.com/contact/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.jklenk.com/posts/the-complete-guide-to-free-money-with-sign-up-bonuses-1000&#43;/</loc>
     <lastmod>2022-01-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -27,9 +30,6 @@
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.jklenk.com/about/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://www.jklenk.com/contact/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://www.jklenk.com/tools/</loc>
